@@ -261,10 +261,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Deepak Prajapati** — Lead Developer & Architect
-
-- GitHub: [@deepakprajapati8938](https://github.com/deepakprajapati8938-del)
-- Email: deepakprajapati@gmail.com
+**Bhumi Wadhwani** — Lead Developer & Architect
+- Email: bhumiwadhwani04@gmail.com
+- 
 
 ---
 
